@@ -33,6 +33,13 @@ h6 {
   font-family: "Raleway", sans-serif;
 }
 
+.btn-primary{
+  background-color: #0563bb;
+  font-family: "Open Sans", sans-serif;
+  margin-top: 25px;
+  
+}
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -478,7 +485,7 @@ section {
 # Akills
 --------------------------------------------------------------*/
 .skills .progress {
-  height: 60px;
+  height: 100px;
   display: block;
   background: none;
   border-radius: 0;
@@ -488,6 +495,8 @@ section {
   padding: 10px 0;
   margin: 0;
   text-transform: uppercase;
+  font-size: 20px;
+  text-align: center;
   display: block;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
@@ -499,15 +508,11 @@ section {
   font-style: normal;
 }
 
-.skills .progress-bar-wrap {
-  background: #f2f3f5;
-}
-
-.skills .progress-bar {
-  width: 1px;
-  height: 10px;
-  transition: 0.9s;
-  background-color: #0563bb;
+.skill-description{
+  font-family: "Poppins", sans-serif;
+  color: #ababab;
+  text-align: center;
+  display: block;
 }
 
 /*--------------------------------------------------------------
