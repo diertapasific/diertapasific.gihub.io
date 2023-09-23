@@ -738,32 +738,28 @@ section {
 --------------------------------------------------------------*/
 .portfolio-details {
   padding-top: 40px;
+  width: fit-content;
 }
 
-.portfolio-details .portfolio-details-slider img {
-  width: 100%;
-}
-
-.portfolio-details .portfolio-details-slider .swiper-pagination {
-  margin-top: 20px;
-  position: relative;
-}
-
-.portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet {
-  width: 12px;
-  height: 12px;
-  background-color: #fff;
-  opacity: 1;
-  border: 1px solid #0563bb;
-}
-
-.portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #0563bb;
+.swiper_slide{
+  display: grid;
+  place-items: center;
+  width: auto;
+  height: auto;
 }
 
 .portfolio-details .portfolio-info {
   padding: 30px;
   box-shadow: 0px 0 30px rgba(69, 80, 91, 0.08);
+}
+
+.btn-portfolio{
+  display: flex;
+    justify-content: center;
+    align-items: center;  
+    margin-bottom: 50px;
+    margin-top: -2%;
+    margin-left: -8%;
 }
 
 .portfolio-details .portfolio-info h3 {
