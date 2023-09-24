@@ -14,6 +14,13 @@ body {
   color: #272829;
 }
 
+@media screen and (max-width: 768px) {
+  body {
+    overflow: scroll  !important;
+    /* Allow scrolling on mobile devices */
+  }
+}
+
 a {
   color: #0563bb;
   text-decoration: none;
@@ -583,6 +590,8 @@ section {
   margin-bottom: 30px;
 }
 
+
+
 .portfolio #portfolio-flters {
   padding: 0;
   margin: 0 auto 25px auto;
@@ -736,9 +745,8 @@ section {
 /*--------------------------------------------------------------
 # Portfolio Details
 --------------------------------------------------------------*/
-.portfolio-details {
-  padding-top: 40px;
-  width: fit-content;
+.portfolio-description p{
+  text-align: justify;
 }
 
 .swiper_slide{
