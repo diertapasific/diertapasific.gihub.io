@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+#Dierta Pasific Website
 
-Template Name: MyResume
-Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+I'm proud to introduce my personal website, crafted with a blend of HTML, CSS, and JavaScript. This digital platform serves as a dynamic showcase of my professional journey, skills, and achievements. Through meticulously designed sections, you'll find a detailed account of my skills, ranging from web development to project management, honed through years of dedicated work. My work and organizational experience are meticulously presented, giving visitors insight into the diverse projects and roles I've undertaken. For those interested in my professional history, my resume is readily available for download. Furthermore, my portfolio section showcases a selection of projects that reflect my expertise and creativity. Whether you're looking to learn more about my skills, delve into my work history, or explore my portfolio, this website provides a comprehensive overview of my professional identity. Welcome, and thank you for visiting!
